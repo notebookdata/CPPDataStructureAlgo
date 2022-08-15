@@ -97,4 +97,8 @@ int main(){
     vector<int> arr = {1, 2, 3, 4, -10};
     int res = maxSubArray(arr);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 85f09f3b928b3e43e5760d7a1fdb707d883f3b08
